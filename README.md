@@ -203,3 +203,13 @@ Finally, people who became members during 2015–2017 responded more and spent m
 In general, sending discount offers through social media seem to be the most promising way for the company to get a higher response rate. This is especially important for male customers, because they tend to respond more to the discounts while other genders don’t have such a big different response rate to BOGOs and discounts.
 
 It’s worth mentioning that although discounts and social media had higher response rates in my analysis, people who received BOGOs actually spent slightly more than those who received discount and informational offers, and the amount of money spent by people from different channels was similar. This suggests that when trying to achieve a higher response rate, it is also important to factor in the cost of making these offers.
+
+## Acknowledgements 
+
+Special thanks goes to my mentor Nicolas Essipova for this Udacity course and the reviewer(s) who helped me through the course. The instructors have greatly helped me build up understandings about important data science concepts and tools. I have learnt a whole lot through this journey. 
+
+Without these great people's help I wouldn't have accomplished the project. I will keep going along this path with the knowledge I have gained from here.
+
+## Contribution
+
+Any contribution to this project is very welcome. 
